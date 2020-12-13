@@ -23,6 +23,7 @@ export default {
     name:"Home",
     data(){
         return{
+		baga
             v2Msg:"1",
             addNum:10,
             minNum:5
